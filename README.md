@@ -11,4 +11,4 @@
 - vista listad productos *
 - vista detalle producto
 - vista carrito compra
-*ya asignado
+#### * ya asignado
